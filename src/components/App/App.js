@@ -8,6 +8,7 @@ function App() {
   return (
     <ToastProvider>
       <ToastPlayground />
+      <Footer />
     </ToastProvider>
   );
 }
